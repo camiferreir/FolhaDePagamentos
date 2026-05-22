@@ -107,7 +107,7 @@ O aplicativo valida:
 
 * Nome vazio
 * Salário negativo ou inválido
-* Número de filhos negativo
+* Campo de filho vazio (coloque mesmo se não tiver)
 * Campos obrigatórios não preenchidos
 
 Mensagens de erro são exibidas ao usuário caso existam dados incorretos.
