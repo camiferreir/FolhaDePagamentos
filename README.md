@@ -1,4 +1,4 @@
-# README — Aplicativo de Folha de Pagamento
+# README — Folha de Pagamento
 
 ## 📌 Descrição do Projeto
 
